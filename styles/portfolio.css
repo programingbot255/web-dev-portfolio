@@ -366,7 +366,7 @@ main {
     border-radius: 10px;
     padding: 130px 150px;
     text-align: center;
-    margin-top: 130px;
+    margin-top: 130px;}
 
 .about-topic {
     display: flex;
@@ -377,8 +377,9 @@ main {
     font-size: 20px;
     font-weight: bold;
 }
-center ;
+.text-center{
     margin top:130px;
+    text-align:center;
 }
 
 .about-topic{
